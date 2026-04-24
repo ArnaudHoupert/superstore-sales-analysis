@@ -84,13 +84,13 @@ Is_Profitable, Is_Extreme_Loss, Is_High_Value
 ## 📊 Phase 2 — Rapport Power BI
 
 **Modèle** : étoile — 1 table de faits (`fact_orders`) + table calendrier DAX (`Calendar`)
-(screenshots/01_modèle.png) 
+(screenshots/01_modèle.PNG) 
 **Pages** : 5 pages thématiques + time intelligence
 
 ### Page 1 — Overview
 KPIs globaux (CA, Profit, Marge, Nb commandes), tendance mensuelle CA vs Profit sur 4 ans, répartition par catégorie.
 
-![Overview](screenshots/02_Overview.png)
+![Overview](screenshots/02_Overview.PNG)
 
 ---
 
@@ -99,28 +99,28 @@ KPIs globaux (CA, Profit, Marge, Nb commandes), tendance mensuelle CA vs Profit 
 
 Le nuage de points (1 point = 1 commande) visualise la corrélation entre taux de remise et marge — la rupture à 20% est clairement visible.
 
-![Analyse remises](screenshots/03_Analyse_remises.png)
+![Analyse remises](screenshots/03_Analyse_remises.PNG)
 
 ---
 
 ### Page 3 — Performance géographique
 Carte choroplèthe par État, matrice région × catégorie avec mise en forme conditionnelle, classement des régions par marge.
 
-![Géographie](screenshots/04_Analyse_Géographique.png)
+![Géographie](screenshots/04_Analyse_Géographique.PNG)
 
 ---
 
 ### Page 4 — Segments & clients
 Comparaison Consumer / Corporate / Home Office sur CA, marge et panier moyen. Top 10 clients avec mise en forme conditionnelle sur la rentabilité.
 
-![Segments](screenshots/05_Segmentation&Clients.png)
+![Segments](screenshots/05_Segmentation&Clients.PNG)
 
 ---
 
 ### Page 5 — Délais & logistique
 Distribution des délais de livraison, performance par Ship Mode, matrice région × mode, évolution temporelle.
 
-![Logistique](screenshots/06_Délais&Logistique.png)
+![Logistique](screenshots/06_Délais&Logistique.PNG)
 
 ---
 
