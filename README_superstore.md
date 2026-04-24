@@ -38,7 +38,7 @@ superstore-sales-analysis/
 
 ## ⚙️ Phase 1 — Preprocessing Python
 
-**Fichier** : `notebook/superstore_preprocessing.py`  
+**Fichier** : `Superstore.ipynb`  
 **Environnement** : Google Colab  
 **Source** : [Kaggle — Sample Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
